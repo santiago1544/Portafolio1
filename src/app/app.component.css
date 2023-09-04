@@ -1,0 +1,38 @@
+.titulo1,.titulo2{
+  color: white;
+  margin-left: 50px;
+}
+
+.boton{
+  border-radius: 20px;
+  background-color: #686DE0;
+  color: white;
+}
+
+.introduccion{
+  margin-left: 50px;
+  margin-top: 30px;
+  font-size: 25px;
+  color: white;
+}
+
+.sobre-mi{
+  margin-top: 30px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.projectos{
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
